@@ -1,15 +1,61 @@
 body
 {
-background-color: rgb(177, 196, 6);
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color: rgb(213, 213, 211);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
 
 #mainHeading 
 {
-color: rgb(81, 215, 171);
+    color: rgb(81, 215, 171);
 }
 
 .highlight
 {
     color: rgb(208, 0, 0);
+}
+
+#deanPicture
+{
+    width: 555px;
+    float: left;
+}
+
+#deanDescription
+{
+    float: left;
+    width: 500px;
+}
+
+#meme
+{
+    width: 333px;
+    float: left;
+}
+
+#plant
+{
+    width: 330px;
+    float: left;
+}
+
+#hobbyList
+{
+    width: 200px;
+    float: left;
+}
+
+#socials
+{
+    width: 400px;
+    float: left;
+}
+
+#pictureNsocials
+{
+    float: left;
+}
+
+.reset
+{
+    clear: both;
 }

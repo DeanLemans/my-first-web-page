@@ -2,11 +2,17 @@ body
 {
     background-color: rgb(213, 213, 211);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    margin: 0x;
 }
 
 .centering
 {
     text-align: center;
+}
+
+.reset
+{
+    clear: both;
 }
 
 .textLeft
@@ -28,25 +34,20 @@ body
 
 #meme
 {
-    width: 333px;
     float: left;
+    width: 333px;
 }
 
 #plant
 {
-    width: 330px;
-    float: left;
+   float: left; 
+   width: 330px;  
 }
 
 #hobbyList
 {
+    float: left;
     width: 200px;
-    float: left;
-}
-
-#leftSide
-{
-    float: left;
 }
 
 #pictureNsocials
@@ -59,7 +60,7 @@ body
     width: 1000;
 }
 
-.reset
+#leftSide
 {
-    clear: both;
+    float: left;
 }

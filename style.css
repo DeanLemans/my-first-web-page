@@ -35,25 +35,18 @@ body
     overflow: hidden;
 }
 
-#deanPicture
-{
-    border-radius: 100px;
-    float: left;
-    margin: 0px 0px 0px 0px;
-}
-
 #deanDescription
 {
     float: left;
     width: 500px;
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 100px;
 }
 
 #meme
 {
     float: left;
     width: 333px;
-    margin: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 50px;
 }
 
 #plant
@@ -78,7 +71,7 @@ body
 
 #pageContainer
 {
-    width: 1000;
+    width: 700;
     margin: 0px 0px 0px 0px;
 }
 

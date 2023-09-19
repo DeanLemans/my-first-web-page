@@ -32,7 +32,21 @@ body
 
 #topnavbar
 {
+    background-color: rgb(205, 220, 210);
+    height: 25px;
+}
+
+#topnavbar a
+{
+    margin: 0px 0px 0px 0px;
     overflow: hidden;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#topnavbar :hover
+{
+    background-color: wheat;
 }
 
 #deanDescription

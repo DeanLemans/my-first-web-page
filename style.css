@@ -30,6 +30,18 @@ body
 
 /*ID*/
 
+#topnavbar
+{
+    overflow: hidden;
+}
+
+#deanPicture
+{
+    border-radius: 100px;
+    float: left;
+    margin: 0px 0px 0px 0px;
+}
+
 #deanDescription
 {
     float: left;
